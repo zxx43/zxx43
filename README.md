@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @zxx43
-- 👀 I’m interested in Computer Graphics
-- 🌱 I’m currently learning Cocos Creator
-- 💞️ I’m looking to collaborate on nothing
+- 👀 I’m interested in Computer Graphics.
+- 🌱 I’m currently learning Cocos Creator.
+- 💞️ I’m looking to collaborate on nothing.
 - 📫 How to reach me ...
 
 <!---
